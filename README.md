@@ -3,7 +3,7 @@
 
 Предложение: повар варит суп
 
-![None](https://github.com/aeprmnv/aeprmnv.github.io/blob/master/model.png)
+![None](https://github.com/aeprmnv/aeprmnv.github.io/blob/master/Lab1/model.png)
 
 Предложение после: Повар готовит суп по заказу из картошки, курицы, морковки, перца, соли и риса с помощью кухонных принадлежностей
 
