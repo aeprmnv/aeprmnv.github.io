@@ -3,7 +3,7 @@
 
 Предложение: повар варит суп
 
-![None] (url)
+![None] (https://github.com/aeprmnv/aeprmnv.github.io/blob/master/Lab1/sixq.rsf)
 
 Предложение после:
 
