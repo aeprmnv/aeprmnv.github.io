@@ -12,4 +12,5 @@
 ![None](https://github.com/aeprmnv/aeprmnv.github.io/blob/master/Lab1/Class.png)
 
 Диаграмма прецедентов:
+
 ![None](https://github.com/aeprmnv/aeprmnv.github.io/blob/master/Lab1/usecase1.png)
